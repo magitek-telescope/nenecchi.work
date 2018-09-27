@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <logo/>
+      <img src='~assets/nenecchi.jpg' alt="nenecchi" width="200">
       <h1 class="title">
         nenecchi-work
       </h1>
